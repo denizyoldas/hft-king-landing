@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Button from './UI/button'
-import CreatorCard from './UI/creator-card'
+import CreatorCard from './creator-card'
 import Title from './UI/title'
 import { Swiper, SwiperSlide } from 'swiper/react'
 
